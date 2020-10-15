@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\l1-python-master\\l1-python"
+		},
+		{
+			"path": "..\\..\\l1-python-master\\exercises\\TD2_structures_controle"
+		},
+		{
+			"name": "l1-python",
+			"path": "..\\..\\l1-python-master\\exercises\\l1-python"
+		},
+		{
+			"name": "l1-python-1",
+			"path": "..\\..\\l1-python-master\\l1-python-1"
+		}
+	],
+	"settings": {}
+}
